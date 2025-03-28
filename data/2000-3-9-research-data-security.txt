@@ -1,0 +1,144 @@
+All Policies
+1000 Index, Circulation Lists, Amendments
+2000 Academic & Student Affairs
+3000 Personnel Administration
+4000 General Administration
+2000-3-9 Research Data Security
+Responsible Executive
+Vice-President, Research & Innovation
+Policy Sponsor
+Vice-President, Research & Innovation
+Issue Date
+May 30, 2019
+Last Review
+April 7, 2021
+Last Revision
+May 30, 2019
+Upon request, the college will provide a copy of this policy in an alternate format.
+Research and scholarly activities that gather or generate data concurrently create risk for the researchers, research partner and the College. Risk arises in the probability or threat of damage, injury, liability, loss, or any other negative occurrence
+    that flows from external or internal vulnerabilities inherent in the gathering, generation and storage of data, and that may be avoided or mitigated through preemptive action. This policy will guide researchers to the appropriate and expected risk-mitigated
+    collection and storage of data arising from research conducted under the auspices of Lambton College, and confirmation of the acceptability of the data management plan with any research partners.
+Policy
+This policy applies to all scholars undertaking research (and hereafter included in the term researchers) and researchers who are undertaking data-generating research and who are employees of, or contractors with, Lambton College, or are otherwise
+            affiliated with Lambton College through their scholarly or research activity,or who are undertaking scholarly or research activities under the auspices of, or in any manner of association with, Lambton College.
+Researchers shall assess privacy risks and threats to the security of data, inclusive of “information” pertaining to the research and individuals included in the research, for all stages of the research life cycle and implement appropriate measures
+            to protect information and ensure data security. Safeguarding data respects the privacy of participants and partners’ protected Intellectual Property (IP) and helps researchers fulfill their confidentiality obligations.
+In adopting and implementing measures to safeguard data and information, researchers must follow disciplinary standards and practices for the collection and protection of information and data gathered for research purposes, as a minimum.
+Further, researchers must undertake data-security risk assessments and implement data security measures that are fully consistent with the requirements of this policy and its appendix.
+Data and Information Sources
+Research project data and information typically arise from two sources, which by their nature determine the need for data protection.
+Developed intellectual property (IP) data through research projects - The policy of the College with respect to IP is to give all the project IPs to the partner,making it critical to protect the project data.
+Data arising from surveys, interviews and other activities for participants in research - Research projects, particularly social science and humanity projects, collect data from research participants. Protection of the data to established
+                    standards
+(Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2))
+is of the highest importance
+Risk Assessment
+A researcher who is generating, gathering, using or controlling data from either of the above described sources must:
+complete a formal assessment of the level of risk associated with the storage and transfer of the data, consistent with the guidance provided in the appendix of this policy, considering, at a minimum, the risk factors identified in the appendix,
+                    and any additional risk factors that are identified by the researcher, or could reasonably be expected to be identified by a competent researcher;
+inform the Dean responsible for applied research of the risk level identified in the risk assessment and receive confirmation of it, following a process consistent with the guidance provided in the appendix of this policy.
+Risk Management
+A researcher generating, gathering, using or storing data from either of the above described sources must:
+implement risk-management protocols, at a minimum, that are consistent with the guidance provided in the appendix of this policy;
+implement any other risk-management strategies that could reasonably be expected to be identified by a competent researcher.
+A researcher generating, gathering, using or storing data from either of the above described sources must implement the following risk-management strategies, unless a strategy is clearly and demonstrably inappropriate or irrelevant.
+The saving and any file sharing of the data must use a secure data-management platform approved by the College and any partners.
+External email services (e.g., Gmail, Yahoo!) may not be used for any conveyance of data.
+All researchers, including research students, involved in the project must be made aware of the sensitivity of data.
+Researchers must determine and collect the smallest amount of identifiable or personal information necessary to answer the research question in order to protect the privacy of participants to the greatest extent possible.
+The type of information to be collected must be well studied, carefully determined and closely defined.
+The purpose for which the information will be used, and the purpose of any secondary use of identifiable information must be clearly identified and closely defined.
+There must be limits established and documented on the use, disclosure and retention of the information and data.
+Minimizing risks to participants, including risks of re-identification of individuals, must be clearly identified as the highest priority in the design and implementation of the data gathering and data storage.
+Any recordings of observations (e.g., photographs, videos, sound recordings) in the research that may allow identification of particular participants must be well and fully protected
+Appropriate security safeguards over the full life-cycle of data and information must be documented and implemented.
+Any possible uses of personal information from the research for purposes other than the original research project, as well as any linkage of data gathered in the research with other data about participants, whether those data are contained
+                            in public or personal records, must be considered and anticipated,and appropriate and sufficient data-security measures implemented to prevent or eliminate these possible uses.
+Data Storage
+The researcher must identify and implement data storage protocols that are consistent with the identified level of risk and the guidance provided in the appendix.
+The data storage protocols will identify and directly address the various types of storage devices that will be used and the protocols associated with each of the types of devices.
+The device protocols must be consistent with the guidance provided in the appendix.
+Data Retention
+Data retention periods will be influenced or determined by funding agency requirements.
+In the case that a project is not externally funded, the College will conform with any agreements made with the research partner. In those cases in which the partner has no requirement or preference,a five-year retention standard will be recommended.
+The College will destroy all research data after a five-year period, unless there is in place an agreement with a partner or funder specific to a particular body of data indicating some other storage period that has been approved by the Dean responsible
+            for applied research.
+Appendix A: Guidance for the Determination of Research Data-Security Level of Risk
+Risk within Research and Scholarly Activities
+Risk is a probability or threat of damage, injury, liability, loss or other negative occurrence that results from external or internal vulnerabilities, and that may be avoided through pre-emptive action.
+With respect to research and scholarly activities, a project will have various risks by the nature of the research project. Some pertinent variables include:
+What is the research question?
+What are the characteristics of the participants? Are they people in vulnerable circumstances, of diminished capacity, with less power than the researcher?
+What research methods are proposed?
+How sensitive are the data that will be collected? What could be the consequences of a data security breach?
+How will the research data be stored?
+Determination and Confirmation of Risk
+An important early task in any research project is to identify data-security risks and determine the level of risk in the project.The steps below must be taken to determine and confirm the level of the data-security risk in a project. The table below
+        should be used as a guide in determining the data-security risk level. Whenever it is not clear which of two levels of risk is the more appropriate,the researcher shall identify the higher level of risk.
+The initial determination of risk level falls to the primary researcher on the project. The researcher is considered the research and subject expert and should have the best knowledge of and insight into the subject matter and research project.
+For projects that require Research Ethics Board (REB)approval, the REB will make the final determination of the level of risk involved after consideration of the recommendation of the primary researcher.
+When the project does not require REB approval, the Dean responsible for applied research, or designate,should be consulted by the researcher if there is any question or lack of clarity concerning the level of risk.
+Ultimately,for projects not requiring REB approval,the Dean responsible for applied research must confirm the data-security level of risk for the project before any research begins.
+If the researcher and the Dean cannot determine or agree on the level of risk,a third-party consultant should be engaged to assist in the determination. The consultant must be an individual or firm capable of investigating the matter and having the
+            knowledge and background to do so. After the conclusion of the consultation, the Dean will confirm the level of risk.
+Levels of Risk for Data Security and Associated Requirements
+The table below provides for each possible level of risk for data security a definition and example and the commensurate minimum storage and IT requirements.
+This table provides guidance to the researcher in establishing the level of risk associated with the research data and identifies the associated required storage and IT requirements.
+Levels of Risk for Data Security and Associated Requirements
+Risk Level
+Definition
+Storage Requirements
+IT Requirements
+No Risk
+The project has no identifiable risk associated with the research data. The data may be non-descriptive general data or the product of research not related to a company, human or animal. e.g. gathered through standard open access method.
+Example: Initial literature review of a well-known subject with no IP consequences and no human involvement.
+Simple storage in a responsible manner is sufficient i.e. data are not negligently or carelessly mishandled.
+The data are handled and stored in a responsible manner, with no specific handling or storage techniques or protocols required.
+Non-encrypted desktop or laptop drive
+Non-encrypted USB drive
+Cloud Storage (OneDrive, Microsoft Teams)
+Low Risk
+Data that contains, or could contain, sensitive information. However,there are no identifiers in the data set to link the participants to the collected data.
+Example: The data gathered from an anonymous survey where no identifiers were collected.
+Physical documents must be kept in a locked office or storage room with a general lock on it.
+Digital storage is on a computer that is password protected.
+Proper data backup protocol is followed with emphasis on security.
+For low risk data storage, a flash drive or cloud service is acceptable as long as the data are accounted for at all times.
+Non-encrypted desktop or laptop drive
+Non-encrypted USB drive
+Cloud Storage (OneDrive, Microsoft Teams)
+Medium Risk
+Data that bear some risk to the participants or company involved if there were a data security breach. The data may, for example, contain identifying information and technical data that can be linked to the participants. Or,the data may
+                        reveal a company’s technological approach. The data may include company-sensitive information that does not include identifiers.
+Example: Interview transcripts collected by a researcher investigating community perspectives on public transportation where participant identifiers are included.
+Physical storage will require a locked cabinet within a locked institutional space. Digital data needs to be kept secure as well. The data should not be unnecessarily duplicated or stored on unsecure devices. Unsecure devices can include
+                        flash drives or portable hard drives and cloud storage devices that are not encrypted.
+Encrypted desktop or laptop drive
+Encrypted USB drive
+Cloud Storage (OneDrive, Microsoft Teams)
+High Risk
+Data that carry a significant risk of harm or loss to the participants or company involved if there were a data security breach.
+Example: Video recordings of participants involved in a therapeutic intervention. Or,experimental data that are used for a patent.
+Physical storage requires a locked cabinet within a locked institutional space. Electronic storage and research data transfer over the Internet require encryption or use of denominalization software to prevent access or interception by
+                        unauthorized individuals, or other risks to data security. Identifiable data obtained through research that are kept on a computer or transferred through the Internet must be encrypted.
+Encrypted desktop or laptop drive
+Encrypted USB drive
+Encrypted cloud storage (OneDrive, Microsoft Teams)
+Data Storage
+Unofficial Data Storage Devices
+Unofficial data storage devices include devices such as cameras, recorders, analytical instruments, etc. While these devices will not have reports or findings on them, they do store research data. The data should be considered as sensitive as any developed
+        report and carry the same risk as the entire project.
+The data should be deleted as soon as possible in order not to risk exposure of sensitive information.In every case, the data are to be deleted from the device within 24 hours of collection or transfer to reports.
+If the device is a shared device,then data must be purged from the device as soon as possible.
+If the data are deemed high risk, then shared devices cannot be used to record or store data.
+If the data are to be retained, copies must be made and stored with other research materials and removed from the shared device.
+Data Transfer Devices
+Data Transfer devices include portable hard drives, flash drives, etc. When sensitive data are used, these devices should be avoided as much as possible as they are not secure unless they are encrypted. If their use is necessary, then these devices must
+        be erased at the earliest possible time and purged of sensitive material. The Lambton College IT Department will provide these devices for use.
+Cloud Services
+Cloud services inherently carry risk as a storage method and transfer media. For any project of medium risk or over,the Cloud should be a last resort for the transfer data or storage of data. Lambton College has cloud service licenses and the Lambton
+        College IT Department will need to be consulted to discuss secure options if cloud services are required.
+For questions or concerns regarding this policy, please contact the
+Policy Sponsor
+by phoning our main line 519-542-7751.
+Search

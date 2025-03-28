@@ -1,0 +1,121 @@
+All Policies
+1000 Index, Circulation Lists, Amendments
+2000 Academic & Student Affairs
+3000 Personnel Administration
+4000 General Administration
+4000-5-15 Data Assurance
+Responsible Executive
+Senior Vice-President, Strategy & Corporate Services
+Policy Sponsor
+Director, Institutional Intelligence & College Registrar
+Issue Date
+October 21, 2022
+Upon request, the college will provide a copy of this policy in an alternate format.
+Lambton College is a public institution and is committed to ensuring compliance with existing federal and provincial legislation and regulatory responsibility regarding data.  Institutional Data is considered a strategic and business critical asset of
+    Lambton College that directly supports the College’s mission and strategic plan.  Data is used by the College to inform operational functions as well as to guide policy formation, program development, assessment, and strategic planning.  The utility
+    of this data is derived from  quality, integrity, security, and access. As an employer, Lambton College collects, uses and discloses data, including personal information, for the purpose of establishing, managing or terminating its employment relationships
+    and managing and auditing its operations. These purposes include preventing and responding to work-related misconduct, breaches of law and other activities that may harm Lambton College’s interest.  Data must be safeguarded at all levels against damage,
+    loss and breaches of security and all who use data share this responsibility; regardless of data’s location of access, affiliation, data delivery and data storage.
+This policy has drawn on and duplicated portions of policies from Humber College.
+Policy
+Data Security
+Institutional Data must be secured and protected to comply with federal and provincial regulations and to ensure data integrity and availability to the College. Failure to maintain data security may result in the corruption, loss, or exfiltration
+                of critical data. Adequate data assurance mitigates the risk of legal repercussions, reputational damage, unauthorized access to personal information or financial penalties.
+All users at the College must protect institutional data against misuse, abuse and/or loss.
+Data security procedures and guidelines will maintain a consistent and appropriate balance between security and accessibility aligned with the
+Use of Information Technology Resources (4000-4-5)
+and
+Confidentiality & Privacy of Information &
+                Records (2000-7-1)
+policies.
+Data Classification
+Data assurance is built on a data classification framework and referenced when handling institutional data based on both criticality and sensitivity of the data.
+Data stewards are responsible for implementing assurance controls in accordance with the data’s assigned classification level. Applicable laws or regulations will be taken into consideration when classifying data.
+The classification system is based on proprietary, strategic, legal, and ethical considerations. Higher levels of cruciality or sensitivity of the data requires stricter assurance controls. The College’s Institutional Data is assigned to one
+                of three (3) categories ranked most critical or sensitive to least.
+Data Categories
+Restricted Data
+Institutional Impact
+- The negative impact on the institution should this data be incorrect, improperly disclosed, improperly accessed, lost, or not available when needed is very high and may include legal, financial,
+                        and reputational consequences. It may also result in harm to individual stakeholders.
+Access
+- Access to this data occurs only when it is in accordance with legitimate business purposes on a need-to-know basis and when legislation permits. Requests for access should be directed to the relevant Data
+                        Steward.
+Description
+- Access to restricted data must be controlled from creation to destruction and is granted only to those affiliated with the College who require the data to perform their job.
+Included in restricted
+                        data are those which fall under privacy legislation including but not limited to FIPPA (Freedom of Information and Protection of Privacy Act) and PHIPA (Personal Health Information Protection Act.) Also included are data related
+                        to highly sensitive College business including those that may be legal, proprietary, or strategic.
+Sensitive Data
+Institutional Impact
+- The negative impact on the institution should this data be incorrect, improperly disclosed, improperly accessed, lost, or not available when needed is moderate to high.
+Access
+- Access to this data may be authorized by the Data Steward to groups or individuals based on their job classification or role on a need-to-know basis. Authorized personnel may be given access to systems but
+                        typically to subsections of the data (e.g., as reports or dashboards) to prevent access to more sensitive data that is not required for the individual’s business purposes.
+Description
+- Sensitive data is intended to be protected from broad consumption on account of business concerns, such as those related to competition and institutional strategic decision-making. Examples may include
+                        data related to budgeting, financial reports, facilities, and human resources information.
+Public Data
+Institutional Impact
+- Public data does not pose a risk in terms of confidentiality, but its quality and integrity are important to the reputation of the institution.
+Access
+- Access to this data may be granted to any requester and will typically be through public websites or through requests to Data Stewards or Data Administrators in specific departments.
+Description
+- Public data is typically highly aggregated data such as those reporting high level College enrolments and other publicly reported metrics.
+Data Stewards
+Data Stewards include the following administrative personnel:
+Associate Director, Reporting, Quality Assurance & Decision Support
+Associate Registrar
+Registrar
+Director, Facilities
+Director, Finance
+Director, Information Technology
+Director, Human Resources
+Director, Student Services
+Senior Dean, International
+Associate Dean
+Associate Dean, Research Operations, Infrastructure & Services
+Specific responsibilities for all Data Stewards include:
+Implement procedures to provide proper access to Institutional Data in their purview, maintain the quality of said data, and take reasonable security measures to safeguard the data from unauthorized access, disclosure, loss, damage,
+                        and misuse.
+Classify the data under their purview according to its sensitivity to direct access to and disclosure of that meets security purposes.
+Investigate reports of data inaccuracies and initiate remediation as appropriate.
+Promote consistent data interpretation and usage, take reasonable security measures to prevent data loss and misuse, and enhance reporting capacity to support institutional data-driven decision-making.
+Maintain the Data Element information within the College Data Dictionary.
+Take all reasonable security measures to protect data systems from corruption and establish data backup and recovery procedures.
+Ensure appropriate logical integrity in databases
+Establish data collection standards and mechanisms for data validation, data synchronization, and error detection to ensure the accuracy of Institutional Data.
+Establish interfaces to connect information systems in different functional areas, develop synchronization mechanisms, assimilate key data elements, and minimize duplication or redundancy of data.
+Ensure data is available in a timely manner and on expected schedules.
+Provide adequate training and documentation to support data users including data definitions in the College data dictionary.
+Establish policies, guidelines, and processes to ensure appropriate access to Institutional Data, maintain the quality and integrity of the data and take all reasonable security measures to safeguard the data from inappropriate access,
+                        disclosure, loss, damage, and misuse.
+Facilitate
+Support the education and training of Lambton College employees in the appropriate use of Institutional Data; and
+Provide notification of any breach of its security measures involving personal information in accordance with applicable legislation.
+Data Users
+All individuals who have access to Institutional Data have an obligation to engage in responsible, proficient, and meticulous use of said data. They must access and use the data only in the conduct of official College business for which they
+                have been assigned and in a manner that advances the strategic goals of the College.
+Responsibilities of the Data Users include:
+Take all reasonable measures to safeguard Institutional Data, including but not limited to, following the requirements for data security, protecting their access credentials, maintaining confidentiality of data, and accurately presenting
+                        Institutional Data.
+Consult the applicable Data Steward when clarification is needed on the appropriate use and release of Institutional Data.
+Immediately report concerns regarding the compromise of data security (e.g., unauthorized access, disclosure, loss, damage), data errors, missing data or other data quality concerns.
+Each data user is accountable for the consequence of misuse or abuse. Those who fail to comply with any procedures, policies, and/or related federal or provincial regulations may be subject to disciplinary action.
+Data Access
+Individuals or departments may not deny access to Institutional Data under their control on the basis of proprietary rights unless providing access would be a violation of applicable privacy laws. For the advancement of the College goals,
+                Institutional Data must be securely shared among eligible employees whose work can be improved as a result of data availability, irrespective of whether these individuals belong to the department that collects or maintains the data, unless
+                such sharing of data is restricted by provincial or federal regulations or would result in the violation of any applicable privacy laws.
+Authorization for access to data is not transferable from one individual to another. Authorization is granted through the appropriate Data Steward.
+Persons in need of access to Institutional Data must make a formal request.
+Review of data requests must be provided in a timely manner and the decision with rationale communicated to the requester. An employee or non-employee may appeal denied access through a formal request to the Director, Information Technology.
+When appropriate, data files will be provided in lieu of access to data systems. This may occur when access to systems may result in access to data which is not in the conduct of official College business or when FIPPA or PHIPA regulations
+                apply.
+Violations of Data Assurance Policy
+Any data user who violates Lambton College policies related to data privacy, security, access, assurance, and/or federal or provincial regulations, will have their data access terminated, and may be subject to further action as per the College’s
+                Use of Information Technology Policy.
+Any concern of potential data misuse is to be reported immediately to the appropriate Data Steward.
+For questions or concerns regarding this policy, please contact the
+Policy Sponsor
+by phoning our main line 519-542-7751.
+Search

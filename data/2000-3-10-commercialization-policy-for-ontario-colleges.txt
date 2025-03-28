@@ -1,0 +1,197 @@
+All Policies
+1000 Index, Circulation Lists, Amendments
+2000 Academic & Student Affairs
+3000 Personnel Administration
+4000 General Administration
+2000-3-10 Commercialization Policy for Ontario Colleges
+Responsible Executive
+Vice-President, Research & Innovation
+Policy Sponsor
+Associate Director, Research Operations, Infrastructure & Services
+Issue Date
+October 21, 2022
+Upon request, the college will provide a copy of this policy in an alternate format.
+Table of Contents
+Preamble
+Purpose & Scope
+Definitions
+General Principles
+Roles & Responsibilities
+Education & Awareness
+Providing Net Benefit to Ontarians & Institutional Engagement with the Innovation Ecosystem
+Discrepancies & Exceptions
+Preamble
+In July 2020, in response to the recommendations of the Expert Panel established in Spring 2019 to help Ontario become more strategic in its approach to generating, protecting and commercializing intellectual property (IP), the government of Ontario released
+        the province’s first Intellectual Property Action Plan. One of the key action items of the Plan is to clarify the commercialization mandates of post-secondary institutions. In response, the Ministry of Colleges and Universities released a Commercialization
+        Mandate Policy Framework in early 2022 directing each post-secondary institution to develop a Commercialization Policy focused on the objective of harnessing the intellectual property generated with the institution’s resources so as to achieve Ontario’s
+        goal of ensuring that made-in-Ontario innovations benefit Ontarians.
+Under the Ontario Colleges of Applied Arts and Technology Act, 2002, the objects of Lambton College (the “College”) are to offer a comprehensive program of career-oriented, post-secondary education and training to assist individuals in finding and keeping
+        employment, to meet the needs of employers and the changing work environment and to support the economic and social development of their local and diverse communities. The Act further provides that in carrying out its objects, the College may undertake
+        a range of education-related and training-related activities, including applied research. It is within such context that the College involves its students, faculty and other staff in Applied Research projects, notably through the rendering of Applied
+        Research services to Third-Party Commercial Entities (TPCEs). Through its applied research activities, the College, along with all other Canadian colleges, plays a critical role in supporting small and medium-sized enterprises (SMEs), fostering competitiveness
+        and innovation, and contributing to Ontario’s economic growth.
+This policy provides a framework for the College’s role of supporting TPCEs and facilitating the commercialization of Arising IP by them.
+This policy has been developed within the unique applied research funding context for Ontario colleges. The operating funding provided to colleges by the province is designed to support the core education and training mandate of colleges and does not
+        reflect the overhead costs of exploring, developing and overseeing applied research projects. These costs must be met through other revenue sources. Funding from granting agencies, primarily federal agencies, is crucial for the College to undertake
+        specific applied research projects. These projects increase innovation at the community and regional level by enabling the College to work with companies to develop solutions to specific business and technical challenges. With the help of such funding,
+        the College can actively engage in Applied Research and collaborations that can lead to the commercialization, as well as technology transfer, adaptation and adoption, of new technologies by TPCEs.
+This policy is to be reviewed no less than five years in order to reflect the College’s experience with Intellectual Property and with other participants in the innovation ecosystem.
+Policy
+Purpose & Scope
+The College has developed this policy in conformity with the requirements of the Commercialization Mandate Policy Framework, giving due consideration to the specificities of research in a college environment, the College’s other policies relating
+            to Intellectual Property and the current legislative framework. By adopting this policy, the College aims to foster an environment in which the commercialization potential for the Intellectual Property derived from Applied Research services rendered
+            to TPCEs can be maximized for the benefit of Ontarians. More specifically, by adopting this Policy, the College seeks to achieve the following:
+Promote the appropriate use and protection of IP arising from the College’s research activities
+Maximize the socioeconomic benefits to Canada and Ontario of such IP
+Promote individual and collective compliance with College and third-party expectations with regards to applicable legislation and regulations
+Define the roles and responsibilities of the various stakeholders in the management of Arising IP
+Promote the use and dissemination of research results in subsequent teaching or research activities at the College
+This policy applied to:
+All staff members, whether employees or contractors, of the College
+All students of the College involved in paid research activities as part of their curriculum who generate Intellectual Property in the course of government-funded Applied Research activities. Other Intellectual Property, for example, copyright
+                    in literary works, authored by the foregoing persons, is addressed in the College’s
+Intellectual Property for Research Activities (2000-3-4)
+policy.
+General Principles
+IP Policy
+This policy is to be read in conjunction with the
+Intellectual Property for Research Activities (2000-3-4)
+policy, which addresses the ownership of intellectual property developed by its employees and students.
+Disclosure
+All creators have an obligation to promptly disclose to the College Intellectual Property with commercial potential. The College shall establish a procedure to facilitate such disclosure to the R&I Office or TPCE. This may include the use of a disclosure
+            form, or it may be included in a report provided to the TPCE that describes the Invention or other IP, the Creators, and any existing agreements related to the Invention or other IP. For clarity, such disclosure is not considered Public Disclosure.
+Given that the responsibility to disclose vests with individuals, the College will educate potential creators on the importance of thorough and timely disclosure.
+Non-Disclosure
+While disclosure of IP is important, non-disclosure of IP is equally so. creators should be aware that Public Disclosure may result in loss of IP protection rights. This is especially true of Inventions as, generally speaking, a patent is difficult
+            or impossible to obtain if Public Disclosure of the Invention has occurred. Care must therefore be taken to avoid premature disclosure before a patent application has been filed. In light of this, Creators are strongly encouraged to make all reasonable
+            efforts to identify any protectable IP as early as possible and consult the R&I Office before making any Public Disclosure of IP.
+Confidentiality
+Partnerships and research collaborations with TPCEs often involve the communication by them of confidential proprietary information, some of which is likely to implicate Intellectual Property. Any Applied Research Services Agreement must contain confidentiality
+            clauses, and any College employees and students must be made aware of such confidentiality provisions to ensure that they are respected.
+Persons engaged in research shall treat as confidential all information received in the context of research activities that is designated as confidential by the party disclosing it or protected by a confidentiality clause. This is especially important
+            in the context of an Invention that could be patented, since a patent cannot be obtained if there has been public disclosure of the Invention.
+TPCEs may require individuals within the College community to sign non-disclosure agreements (NDAs) as additional protection, often prior to the College and the TPCE entering into an Applied Research Services Agreement. In such case, unless the NDA
+            contains clauses that cannot be considered “standard”, the individual shall be required to sign the NDA as a condition of participating in the project to indicate their acknowledgement of the NDA terms.
+Finally, where the R&I Office believes that Intellectual Property belonging to the College, or which the College licenses from a third party, may be divulged in the course of research activities, the College will request the TPCE to sign a non-disclosure
+            agreement. As a matter of practice however, the NDA which the TPCE is asking the College to sign may offer the parties mutual protection.
+Use of Proper Binding Agreement
+Regardless of the Commercialization Pathway ultimately chosen Applied Research Services Agreements that could result in the creation of new Intellectual Property must be documented in a written contract which:
+protects the interests of the College, faculty and staff, and students, for example by minimizing the potential for, and the consequences of, a breach of the agreement and saves it harmless from future IP-related claims; and
+retains rights for the College to use the IP for educational and research purposes.
+In all instances, the contract shall explicitly or implicitly provide that the decision to commercialize Arising IP will rest with the TPCE.
+Rights Retained
+The College must endeavour to maintain the right to use any Arising IP resulting from an Applied Research Services Agreement for internal academic and teaching purposes, including for the purposes of enhancing curriculum relating to the subject matter
+            thereof and of providing case studies and examples of research-derived IP and the management thereof.
+Roles & Responsibilities
+The College
+As an institution supporting and facilitating the commercialization of Intellectual Property created in Ontario, the College’s role is to ensure that intellectual property created with the use of its physical and human resources (i.e., Arising IP)
+            will be identified, protected from disclosure and transferred to TPCEs or, if so directed by them, to third-parties who are capable of assessing the IP’s commercial potential.
+Research & Innovation Office
+The R&I Office is responsible for the administration of all matters relating to IP at the College. Its functions include:
+Ensuring and promoting compliance with this policy and other IP policies of the College, if any, namely by informing relevant stakeholders of their rights, roles and responsibilities
+Responding to questions regarding the application, interpretation and implementation of this policy
+Managing agreements signed with TPCEs, including non-disclosure agreements, assignments and licences, including establishing, negotiating and reviewing all such agreements, with the assistance of legal counsel if necessary, before they are
+                    signed by any employee, contractor or student of the College
+Serving as the repository for the foregoing agreements
+Reviewing all written IP disclosures in a timely manner
+Where possible, supporting staff members, students and industry partners with any issue related to IP protection and commercialization
+Making members of research teams aware of the terms and conditions of the relevant research agreement that could impact them (such as disclosure and confidentiality provisions.
+The R&Q Office is not responsible for identifying Inventions or confirming the ownership of Intellectual Property that have not been disclosed as per
+Section 3
+of this policy.
+Vice-President, Research & Innovation
+The Vice-President, Research & Innovation, or equivalent individual with authority to legally bind the College, must sign all agreements that could result in Arising IP, including all Applied Research services agreement.
+Employees
+College employees, including faculty, staff, paid researchers and paid students, are responsible for abiding by this policy.
+All employees of the College whose work may involve the creation of intellectual property have a duty to both disclose and protect such intellectual property.
+Creators
+All Creators have an obligation to promptly disclose Intellectual Property with commercial potential (see
+Section 3
+of this policy).
+Creators shall collaborate with the College TPCEs and any other relevant third party in order to identify and protect third-party IP rights, as well as any rights that the College may have in IP.
+Creators recognize that ownership of Arising IP resulting from projects involving third parties depends on the terms of the agreement between the College and the third party.
+Creators may be asked to sign a waiver, an assignment of rights or any other document relating to ownership and protection of the
+Arising IP
+.
+Education & Awareness
+In order to promote the objectives of this policy, the College shall:
+provide all employees with access to IP education resources made available by the IP office of the Province of Ontario (IPON)
+organize and hold reoccurring “Intellectual Property (IP) for Research Activities” sessions, during which participants will be introduced to the contents of the College’s IP Policy and this commercialization policy
+provide access to IP training and education information materials on the College Intranet
+raise awareness of this Commercialization Policy by posting in faculty newsletters (printed and/or online)
+take any reasonable steps to further the objectives of this policy.
+Providing Net Benefit to Ontarians & Institutional Engagement with the Innovation Ecosystem
+In order to build institutional capacity to conduct Applied Research and thereby develop and enhance Ontario-based IP, the College will continue to build and maintain relationships with local innovation ecosystem partners such as incubators, accelerators,
+            innovation centres, research networks, without however impacting federal funding received by the College in relation to the Applied Research projects it undertakes.
+Partnering with Ontario businesses will result in a net benefit to Ontarians by keeping IP development and enhancements in Ontario.
+Discrepancies & Exceptions
+In case of discrepancy between this policy and the terms of an Applied Research Services Agreement, the terms of the Agreement shall prevail. Any other exception to this policy requires prior approval of the Research and Innovation Office.
+Definitions
+Definitions
+Term
+Definition
+Research & Innovation Office)
+The research administration office of the College or equivalent
+Applied Research
+Research and development activities directed at solving a specific challenge faced by an external partner or TPCE. Applied Research at colleges is typically carried out by teams of students working under the guidance, supervision and mentorship of faculty, and in collaboration with partner organizations or under agreement with TPCEs. Applied Research includes grant-funded and industry sponsored Applied Research, curriculum-based research projects in collaboration with an external organization.
+Applied Research Services Agreement or Research Agreements
+An agreement between the College and a TPCE whereby the College agrees to provide Applied Research services to the TPCE
+Arising IP
+IP that is developed by one or more parties in the course of Applied Research activities which did not previously exist. It is also referred to as Foreground.
+College
+Lambton College
+Commercialization
+Necessary activities undertaken in order to exploit IP. Commercialization includes assignment, licensing, manufacturing or production of IP as well as, the protection of IP, including, but not limited to, obtaining patent production and copyright registration, with the goal of financial return.
+Commercialization Pathways
+The various methods by which IP may be commercialized. A list of Commercialization Pathways is provided in Appendix A to this Policy
+Creator
+A sole individual, or group of individuals working collaboratively and/or co-operatively, who make, conceive, reduce to practice, author, or otherwise make a substantive intellectual contribution to the creation of Intellectual Property. Creator includes
+                        the concept of "inventor" as used in the Canadian Patent Act, or "author" as used in the Canadian Copyright Act.
+Invention
+A tangible or intangible concept, system, device, process, machine, scientific discovery, work or creation, which is unique and original, as well as any related Intellectual Property. Inventions can be issued a patent under the Patent Act (Canada).
+Intellectual Property or IP
+Any form of knowledge or expression created by human intellect that can be owned by a person. It includes, but is not limited to, inventions, discoveries, know-how, show-how, processes, unique materials, copyrightable works, original data and other creative works which have value. It includes that which is protectable by statute or legislation, such as Patents, Copyrights, Trademarks, and Trade Secrets. It also includes the physical embodiment of intellectual effort, for example, models, machines, devices, designs, apparatus, instrumentation, circuits, computer programs and visualizations, biological materials, chemicals, other compositions of matter, plants, and records of research.
+Literary Work
+Work consisting of text, such as books, pamphlets, or computer programs.
+Patent
+In Canada, a right granted by the federal government to the inventor (or a person to which the investor has assigned her rights) to stop others from making, using and/or selling an Invention from the day the patent is granted to a maximum of 20 years after the day on which the patent application is filed.
+Public Disclosure
+The communication of information relating to IP to external parties, including students who are not presently contractors or employees of the College. Public Disclosure includes, but is not limited to, disclosure in written or oral form; communication by email; posting on a web blog or social media platform; disclosure in a news report, press release or interview; publication in a journal, abstract, poster, or report; presentation at a conference; demonstration of an Invention at a trade show; or the industrial application of an Invention.
+Third-Party Commercial Entities or TPCE
+Businesses with which the College has contracted to provide Applied Research Services that could result in Arising IP.
+Appendix A: Commercialization Pathways
+Licensing
+Licensing can be in the form of an exclusive license, a non-exclusive license, a sole license or a cross license. All licensing arrangements can be contractually limited by geographical locations, time, industry and fields of application.
+In order to maximize benefits to Ontarians, the College shall endeavour to grant non-exclusive licenses, and preference shall be given to small and medium-sized enterprises. In determining the type and terms of a license, the College shall consider
+                the likelihood that the Licensee will be able to bring the licensed IP to market.
+Some of the different forms of license, and other important licensing terminology, are the following:
+Cross-License
+- A license two or more Intellectual Property owners contractually authorise each other to use their Intellectual Property for commercial and non-commercial purposes. Cross-licensing terms may include the payment
+                        of a licensee fee or royalty if the rights conveyed by the parties are not equal in value
+Exclusive License
+- A license whereby the licensor transfers all rights of exploitation of the Intellectual Property to the licensee. This means that the licensor relinquishes the rights to exploit the Intellectual Property
+                        itself, or to grant any additional, subsequent license(s) to another party
+License or License Agreement
+- A contract under which the holder of IP (the Licensor) grants permission for the use of its IP to another person (the Licensee), within the limits set by the provisions of the contract. The Licensor
+                        retains ownership of the IP and is therefore responsible for any on-going prosecution of the IP and maintenance of IP rights
+Licensee
+- The recipient of a license
+Licensor
+- The provider of a license
+Non-Exclusive License
+- A license whereby the Licensor may grant the rights of exploitation of the Intellectual Property to one or more party(ies), including the right to exploit the Intellectual Property itself. In a non-exclusive
+                        license, the Licensor may grant the Licensee sub-licensing rights
+Sole License
+- A license whereby the Licensor transfers all rights of exploitation of the Intellectual Property to the Licensee but retains its rights to exploit the Intellectual Property itself
+Assignment
+- The College transfers complete ownership to another party (the “Assignee”). Assignment involves an outright sale of Intellectual Property rights to the Assignee. However, partial assignments are allowed. For example,
+                        an assignment may be restricted by geographical locations
+Spin-Off Company
+- The College establishes a company for the purpose of commercializing the Intellectual Property, where the Creator(s) and the College may own equity in the company together with any third party, in proportions
+                        to be negotiated
+Joint Venture Company
+- The College establishes an entity together with a third party for the purpose of commercializing the Intellectual Property, where the College and the third party are shareholders of the said company
+For questions or concerns regarding this policy, please contact the
+Policy Sponsor
+by phoning our main line 519-542-7751.
+Search

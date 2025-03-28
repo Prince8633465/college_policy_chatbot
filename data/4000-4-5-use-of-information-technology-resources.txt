@@ -1,0 +1,123 @@
+All Policies
+1000 Index, Circulation Lists, Amendments
+2000 Academic & Student Affairs
+3000 Personnel Administration
+4000 General Administration
+4000-4-5 Use of Information Technology Resources
+Responsible Executive
+Senior Vice-President, Strategy & Corporate Services
+Policy Sponsor
+Director, Information Technology
+Issue Date
+June 18, 2015
+Supersedes Date
+May 5, 2021
+Last Review
+April 16, 2024
+Last Revision
+April 16, 2024
+Upon request, the college will provide a copy of this policy in an alternate format.
+Information Technology resources
+at Lambton College exist to support the academic, administrative and research tasks of the College. Information Technology is a valuable
+    College resource that must be shared by the entire College community. Misuse or wasteful use of these resources threatens the realization of the College strategic plan and mission. Information Technology resources must be utilized within the parameters
+    set by the College. Users must abide by all application restrictions, whether or not they can be circumvented by technical means. This policy applies to all users of Information Technology resources, whether affiliated with Lambton College or not,
+    and to all uses of those resources, whether on campus or from remote locations.
+Policy
+Information Technology resources may be used only by those individuals - students, employees, retirees, contractors, visitors - who are authorized to do so.
+In those instances in which user identification (
+User ID
+) is required, the users must use the identification provided to them by the College, and no other.
+Any
+user
+of College Information Technology resources must provide current College identification when requested to do so by a College employee.
+User Responsibility
+Users are responsible for maintaining the security of their account and password. Accounts and passwords are normally assigned to a single user and are not to be shared with any other individual without authorization by the Director or Manager of
+            the Information Technology Department.
+Concealing or attempting to conceal one's identity when accessing a technical service is prohibited. Masquerading as another individual is also prohibited.
+Any users that suspect their accounts and/or passwords have been compromised, or that their accounts have otherwise been improperly accessed, must immediately report the suspected breach to the Director or Manager of the Information Technology department.
+Information that comes into possession, to the attention or to the knowledge of an user, by any means (e.g. intent, error, inadvertence), that is private or confidential, or could be reasonably construed or understood as being private or confidential,
+            shall be treated as private or confidential by the user, who shall notify the other person(s) of their possession of the information, and shall not copy, modify, disseminate or otherwise use in any manner the information without the explicit consent
+            of the owner of the information, and shall delete the information at the direction of the owner of the information. If the owner of the information cannot be contacted after reasonable effort, the user shall immediately and completely delete the
+            private or confidential information in their possession.
+A user seeing or becoming aware of the abuse or potential misuse of Information Technology resources is expected to report the same to the Information Technology Department as soon as possible.
+A user is expected to report any hardware, software, network or service problem to the Information Technology Department as soon as possible.
+In order to ensure security of College Information Technology resources, a user must not install or use any software, hardware, or service that has not been authorized or installed by the Information Technology Department.
+Appropriate Use of Resources
+College Information Technology resources may be used for only College-related activities.
+Use of College Information Technology resources for personal gain - commercial, financial, or any other - is inappropriate and shall not be undertaken.
+Given the high risk of accidental or deliberate unauthorized disclosure, users must not use portable media devices or personal media storage, including, but not limited to, USB drives, cloud storage and portable hard drives to store sensitive College
+            data, including learner and employee personal information, unless approved encryption methods are used for protection by the Information Technology Department. Furthermore, portable media devices must not be used under any circumstance to store
+            personal health information (PHI).
+Practices that are wasteful of Information Technology resources are to be avoided and must not be undertaken by users of the resources. Such practices include, but are not limited to, the following:
+Practices or activities not directly related to the work or operation of the College.
+Burdensome practices such as, but not limited to, the creation or use of unnecessarily large files, excessive network bandwidth, or the creation and retention of unnecessary files.
+Downloading or streaming large audio or video files for personal use.
+The unauthorized or unnecessary reservation or holding of computers or other Information Technology.
+The removal or modification of computer hardware, software, or services without the authorization of the Information Technology Department.
+Impeding, interfering, impairing, or otherwise causing harm to the activities of others.
+The deliberate viewing, altercation or destruction of applications or data. Under no circumstances may a user inspect, alter, delete, publish, or otherwise tamper with data that the individual is not authorized to access or modify.
+Users must not use the Information Technology resources in a manner that would imply College support for any political party, candidate, position or proposition.
+Users must not use the Information Technology resources in a manner, or for a purpose, that leads or contributes to the harassment of, discrimination against, bullying of, or the promotion of hatred towards another individual or group of individuals.
+            Any such actions will be prosecuted to the full extent of the law.
+Users must not use Information Technology resources for activities that are not consistent with the mission, purpose, or legitimate activities of the College, or that could lessen, damage, or negatively impact the reputation of the College or College
+            community, for instance using IT resources to participate in activities associated with illegal activities or sexually explicit material.
+Users must not use the Information Technology resources for any illegal or unlawful purpose such as, but not limited to, copyright infringement, obscenity, libel, harassment, impersonation, or computer tampering. Any such actions will be prosecuted
+            to the full extent of the law.
+Using licensed resources in a manner not permitted by the license, or otherwise using the resources in a manner contrary to, or outside of the provisions or spirit of the licenses may be illegal, contrary to College expectations, and shall not
+            be undertaken by any user.
+Acquisition of Information Technology Resources
+Only the Information Technology Department acquires and maintains all hardware, software, services, and other Information Technology resources used and provided by the College.
+The use of IT resources and solutions outside the formal approval, ownership, and control of the Information Technology department represents risks of data loss, corruption of data, security disclosure, security breach, and misuse, as well as inefficient, fragmented, and disconnected processes, and is therefore prohibited.
+Integrity and Security of Resources
+Any action or attempt by any individual to subvert or disrupt the intended use or functioning of any Information Technology resources, or to affect the use or operation of the Information Technology resources in a manner detrimental to other users
+            is prohibited.
+No user shall wilfully or deliberately jeopardize the integrity of the Information Technology hardware, software, network, services, or data. Any attempts to bypass system security, or tamper with, or cause damage to Information Technology resources
+            will be viewed as jeopardizing the functioning of College Information Technology.
+Users of the College Information Technology resources must remain within the bounds of their own account. Attempting to circumvent the bounds of an account includes, but is not limited to, such activities as entering or viewing system data and accounts
+            or another user's accounts, using another individual's password, accessing or copying data belonging to another user or Lambton College.
+Data and applications administered by the Information Technology Department may not be taken or transferred to any other system without the permission of the Information Technology Department.
+Acquiring data, for any purpose, that were erased or intended to be erased is prohibited unless authorized by the Director or Manager of the Information Technology Department. Intentional recovery of another party’s data that was deleted, or intended
+            to be deleted, is unauthorized access and a violation of privacy.
+The College may access all Information Technology resources (including account information, user data, email, etc.), without the consent of the affected individual, in the following circumstances:
+When necessary to identify or diagnose significant technical problems, or to preserve the integrity of College infrastructure;
+When required by international, federal, provincial or local law, or administrative rules;
+When required to do so in order to comply with Freedom of Information requests;
+When required to protect public health and safety;
+When required to carry out essential business functions of the College;
+To improve business processes and manage business productivity;
+When there are reasonable grounds to believe that a significant breach of College policies, collective agreements, terms and conditions of employment, or legislation may have taken place, and is authorized by the Senior Vice-President, Strategy
+                    & Corporate Services or delegate.
+Confidentiality
+Users of the Information Technology resources are expected to be informed of and comply with all aspects of the College
+Confidentiality & Privacy of Information & Records (2000-7-1) policy
+.
+All information technology services at Lambton College or utilizing Lambton College information technology services are actively monitored and logged for security, diagnostics, and audit purposes.
+Employment or personal use of the College I.T. resources is not always and necessarily private. If a user requires a private personal means of communication or computing, the user should use a personal computer or device and connect to the internet through an external commercial internet service provider.
+Sanctions
+Inappropriate use of the Information Technology resources will be addressed through established employee and student discipline policy and procedures. In addition to the sanctions identified in College policies, sanctions specific to the inappropriate
+            use of Information Technology resources may be applied and include, but are not limited to, temporary or permanent revocation of access to some or all of the Information Technology resources.
+Users who violate international, federal, provincial, or local laws may be subject to criminal prosecution and/or civil litigation by the appropriate authorities.
+Procedures and Regulations
+The procedures for gaining access to and using the College Information Technology resources are established, maintained and, from time to time, modified by the Information Technology Department. Current procedures will be posted by the Department
+            on its webpage on the internal College website.
+The regulations governing the use of the Information Technology resources at the College are established, maintained and, from time to time, modified by the Information Technology Department. The Department will post the current regulations on its
+            webpage on the internal College website, and will provide links to that webpage from appropriate and conspicuous locations on the College website, and will post notices informing of the regulations where users may regularly congregate.
+Definitions
+Application
+Program or group of programs designed for users to perform specific functions.
+Authorized Use
+Use of College Information Technology resources for College educational or administrative activities recognized by the College as such, or such other uses as approved by the Information Technology Department.
+Data
+Facts and statistics collected for reference or analysis.
+Information Technology Resources
+Those physical, electronic, and intellectual resources used to produce, convey, transmit, store, analyze, collate, distribute, present, display, etc. data or information in whatever form (e.g. text, pictorial, graphic, video, audio, etc.), that typically
+            consist of, but are not limited to, computer hardware, computer software, network, devices and equipment, and applications, servers, databases, audio-visual equipment, telephone equipment, any device that connects to the network and/or the Internet,
+            and other forms of information technologies that exist today or may be developed in the future.
+User
+An individual authorized to use all or some subset of the College Information Technology resources.
+User ID
+The name assigned to a user by the Information Technology Department to authorize and enable access to the College Information Technology resources.
+For questions or concerns regarding this policy, please contact the
+Policy Sponsor
+by phoning our main line 519-542-7751.
+Search

@@ -1,0 +1,384 @@
+All Policies
+1000 Index, Circulation Lists, Amendments
+2000 Academic & Student Affairs
+3000 Personnel Administration
+4000 General Administration
+2000-3-1 Ethical Conduct & Policy for Research Involving Humans
+Responsible Executive
+Vice-President, Research & Innovation
+Policy Sponsor
+Vice-President, Research & Innovation
+Issue Date
+October 26, 2006
+Supersedes Date
+May 11, 2017
+Last Review
+April 7, 2021
+Last Revision
+June 30, 2019
+Upon request, the college will provide a copy of this policy in an alternate format.
+Lambton College is committed to the ethical conduct of any research undertaken in its name, by its employees or associates, or on its premises and to ensuring that any research meets the highest ethical expectations for the treatment of
+human participants
+[1]
+and the highest standards for the protection of human participants and their rights. This policy is intended to ensure that
+research
+[2]
+is conducted ethically, the rights of human participants in research are respected and protected, and research is conducted in a manner consistent with the guidelines and standards of the
+Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans
+(TCPS2)
+[3]
+. Further, this policy will guide the Research Ethics Board (REB) and researchers in the protection of human research participants and their rights.
+Policy
+Scope
+This policy, and its provisions and requirements, apply to all research involving human participants
+conducted by College employees and students, or
+conducted on Lambton College premises, whether or not by a College employee or student,
+funded or unfunded,
+unless explicitly excluded or exempted by this policy.
+It is the responsibility of any researcher associated in any way with Lambton College, e.g. full-time employee, contract employee, unpaid associate, volunteer, etc., who anticipates undertaking or, in any way being engaged with, or associated with
+        research of any type involving human participants to ensure that the research has been reported to and considered by the Lambton College REB before undertaking or participating in any way in the research.
+Further, it is the responsibility of every Lambton College manager to ensure that any research involving human participants has been reported to, considered by and approved by the REB, or been deemed by the REB not to require its approval, before
+        approving the commencement or the funding of the research.
+The applicability of this policy to any research in any way associated with, linked or related to Lambton College will be determined by the REB. The REB must be informed of any research to be undertaken under the conditions described above in order
+        for it to determine the applicability of this policy to the research.
+The scope of this policy and the authority of the REB do not extend to the validity or value of the research as a scholarly undertaking or its potential for making a meaningful contribution to a scholarly body of work. Notwithstanding this statement,
+        if the REB is particularly concerned about an egregious imbalance between the (apparent lack of) scholarly value of some research and the costs, or potential costs, imposed on the human participants or the College, the REB has a moral obligation
+        to forward its concerns to the College manager overseeing the research or the President.
+Compliance with the Tri-Council Policy Statement (TCPS2)
+All research conducted within or associated with Lambton College that involves human participants must comply with the standards stipulated in the TCPS2. As well, the TCPS2 will provide guidance to the REB and researchers. A link to the TCPS2 is provided
+        in the appendix.
+If an inconsistency or conflict arises between this policy and the TCPS2, this policy shall take precedence, unless determined otherwise by the REB.
+All principle investigators, researchers, including student researchers, and REB members are required to complete the TCPS2 Tutorial Course on Research Ethics (CORE), or any successor to it. Proof of completion of the course by all involved researchers
+        is a prerequisite for approval of their research, and by members of the REB as a prerequisite for participation in REB deliberations. In some circumstances, students involved in the conduct of course-based research may not be required to obtain
+        TCPS-2 certificates. Course instructors should consult with the REB if they believe this exemption may be appropriate for their course-based research proposal.
+Respect for and Care of Persons
+All research associated with the College involving human participants shall be based on principles of ethical interaction, including:
+respect for human dignity;
+respect for a person’s
+autonomy
+[4]
+;
+nonmaleficence;
+respect for privacy and confidentiality;
+respect for free and informed consent;
+recognition of the value of human beings;
+respect for vulnerable persons including protecting those with developing or impaired autonomy and ensuring that those participants in vulnerable circumstances, e.g. children, elderly and institutionalized persons, are given special protection
+                against exploitation, discrimination or abuse;
+promotion of the welfare of participants in view of a foreseeable risk;
+fair, respectful and concerned treatment of participants; and
+provision of sufficient information to enable participants to assess the risks and benefits of their participation
+Research Involving the First Nations, Inuit and Métis peoples of Canada
+Researchers and REB members shall apply all the principles and values stated in the TCPS2 when conducting research involving Aboriginal people of Canada and respect all other government of Canada policies.
+Research involving Aboriginal people shall acknowledge their unique status and affirm the "respect for community customs and codes of research practice in researcher-community relations."
+[5]
+The REB and researchers are responsible to interpret the ethics framework in an Aboriginal context. Where research will involve an Aboriginal community or communities, the researcher has the responsibility to engage with the relevant community. Engagement
+[6]
+is required under, but not limited to, the following conditions:
+research conducted on First Nations, Inuit or Métis lands;
+recruitment criteria that include Aboriginal identity as a factor for the entire study or for a subgroup in the study;
+research that seeks input from participants regarding a community’s cultural heritage, artifacts, traditional knowledge or unique characteristics;
+research in which Aboriginal identity or membership in an Aboriginal community is used as a variable for the purpose of analysis of the research data; and
+interpretation of research results that will refer to Aboriginal communities, people, language, history or culture.
+The extent of community engagement shall be determined by both the community and the researcher, based on the characteristics and nature of the research. When appropriate, researchers shall seek engagement with the formal leaders of the community
+        (e.g., research conducted on lands under the jurisdiction of an authority).
+Both researchers and REB members shall consult the TCPS2 for further guidance
+[7]
+on the ethical conduct of research involving Aboriginal peoples (e.g., engagement with organizations and
+        communities of interest, complex authority structures, recognizing diverse interests with communities, critical inquiry, etc.).
+Scope of Research Requiring Review by the Research Ethics Board
+All research involving human participants or subjects requires the review and approval of the Research Ethics Board of Lambton College, with the exemptions noted immediately below. Research involving human participants or subjects refers to research
+        in which humans are participating or are being observed, or in which databases are used that contain specific information about the participants or subjects, including the secondary use of identifiable information.
+Review and approval of the REB is required for all research involving human biological materials, as well as human embryos, fetuses, fetal tissue, reproductive materials, stem cells or any other materials derived from living or deceased individuals.
+        Research involving human biological materials is not permitted at Lambton College.
+No intervention or interaction with human participants or subjects in research, including recruitment, may begin until the REB has reviewed and approved the research. Communication with organizations for purposes of establishing partnerships and collaboration
+        prior to the research may be undertaken without REB review and approval.
+Exemptions
+Research does not require review and approval by the REB in the following specific individual instances.
+The research relies exclusively on publicly available information that is legally accessible to the public or relies exclusively on secondary use of anonymous information, so long as the process of dissemination, collection and linkage of
+                data do not generate identifiable information.
+The research relies on the observation of people in public places, where the observed individuals or groups should not have a reasonable expectation of privacy, and the disseminated research results do not allow for the identification of specific
+                individuals.
+The research concerns the performance of the College, or affiliated institutions, or of the employees or students within the mandate of the organizations or according to the terms and conditions of employment or consistent with the student-institution
+                relationship. These activities may include, but are not limited to:
+quality assurance and improvement studies,
+institutional performance assessment,
+employee performance reviews,
+testing within normal educational requirements,
+management or performance improvement studies.
+Notwithstanding the immediately above statement, if the performance of research is undertaken with an intent to publish the results as research, or is subsequently fashioned for publication, then review and approval by the REB are required.
+Multi-Jurisdictional Research
+Research projects that involve human participants or subjects may, by their nature, involve multiple sites or institutions and multiple REBs. (For examples of multi-jurisdictional research projects, see the Lambton College REB policy support documents.)
+        Research being conducted at more than one site or institution requires the review and approval of all REBs with jurisdiction at a site or institution before the research may proceed.
+For multi-jurisdictional research, the Lambton College REB may choose to coordinate its review with other REBs through an agreed-upon coordination method or review model. The Lambton College REB may participate in an appropriate alternative review
+        model (e.g., independent ethics review by several REBs, research ethics review delegated to an external, specialized or multi-institutional REB such as the Ontario Community College Multi-Site REB, reciprocal REB review). However, irrespective
+        of where the research is conducted or the review method or model used, the Lambton College REB shall remain responsible for the ethical conduct of research within its jurisdiction.
+When a Lambton College employee or associated researcher is involved in research in Canada or abroad that is outside the REB’s jurisdiction, the researcher, who falls under the auspices of this policy and the REB, shall seek the approval of the Lambton
+        College REB, and shall provide to the REB:
+the rules and ethics requirements of the research site;
+names and information of any REBs involved; and
+any information concerning the research populations and circumstances that might be relevant or have a bearing on the research ethics review by the Lambton College REB.
+Research Ethics Board (REB)
+Mandate, Authority and Responsibility
+The mandate of the REB is to uphold the Lambton College commitment to the ethical conduct of research and the protection of human participants in the research through its review and approval, or not, of research submitted to it for review.
+It is the responsibility of the REB to review and consider applications for research conducted within its jurisdiction to determine if the proposed research will be conducted in an ethical manner, consistent with this policy, consistent with the
+Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans
+and consistent with the protection of human research participants and their rights, and to approve, or not, the initiation or continuation of the research on the basis of its findings.
+Further, it is the responsibility of the REB to react to and investigate any concerns, complaints or comments it receives concerning the conduct of research not submitted for approval, or submitted research not approved, or previously approved research
+        and its compliance with the approvals given by the REB.
+The authority and powers to fulfill this mandate - including the authority to disallow the initiation or continuation of specific research projects - are delegated to the REB by the President of the College. Further, that authority and powers shall
+        not be restricted or in any way limited, usurped, re-directed or contradicted by any College administrator.
+More specifically, the REB has the authority to
+“establish the ethics review processes, and provide research ethics oversight to ensure the ethical conduct of the research,
+approve, require modifications to, or disapprove, any research activity that falls within its jurisdiction,
+ensure that the researcher has policies and procedures to protect the rights, safety and welfare of research participants,
+request, receive and share any information involving the research that the REB considers necessary to fulfil its mandate, while maintaining confidentiality and respecting privacy,
+conduct continuing ethical review to protect the rights and welfare and privacy of research participants,
+suspend or terminate the ethics approval for the research,
+place restrictions on the research,
+take any actions considered reasonably necessary, and consistent with policies and procedures, to ensure the protection of the rights, safety, and well-being of participants in research conducted under the REB’s jurisdiction,
+[8]
+inform the Applied Research and Innovation Department about approval, suspension, terminations or other status of ongoing or research projects under review.
+Research Ethics Board Membership
+The REB shall consist of no fewer than five and no more than twelve members, who shall be gender diversified.
+Within the REB membership, at least:
+two members shall have expertise in relevant research disciplines, fields or methodologies covered by the REB;
+one member shall be knowledgeable in ethics;
+one member shall be knowledgeable in the relevant law;
+one member shall be a community member who has no affiliation with the College.
+[9]
+A trained student member may be added if the REB is mainly reviewing student research.
+Further, no College manager shall serve as a member of the REB.
+Members Recruitment and Appointment
+The REB shall advertise widely in order to recruit qualified individuals to the Board.
+Interested individuals shall submit a written application as prescribed by the Board.
+Applications will be reviewed by a panel appointed by the President.
+The panel will consider the applicants on the basis of their experience, qualifications and fit with the REB skills matrix and recommend appropriate applicants for appointment.
+The President will make the appointments to the REB.
+Terms of Appointment
+Candidates selected for appointment to the REB will be required to sign a letter of appointment setting out the terms of the appointment including a confidentiality of information and conflict of interest agreement.
+Appointment to the REB shall be for a term of up to three years.
+Appointments to the board shall be distributed over a rolling three-year period to ensure continuity on the Board and provide for the appropriate composition of the membership.
+A member may be reappointed to the Board for a second term, but may serve no more than six consecutive years.
+Notwithstanding the above statement, a member who possesses unique critical experience for whom no replacement may be found may be appointed for another term.
+A past member may be reappointed to the Board after an absence of at least one year.
+Notwithstanding the above statement, if a member has served as chair in his/her sixth year on the REB, the member may remain on the Board for an additional year in the role of Past Chair for a total of seven consecutive years on the Board,
+                at the pleasure of the President.
+A member seeking re-appointment, who has met the expectations for the role, including regular attendance and timely completion of assigned reviews as confirmed by the Chair, may be recommended by the Board to the President for re-appointment
+                upon a majority vote supporting confirmation by the current Board members.
+Substitute Members
+Substitute members may be appointed to the Board to serve on an
+ad hoc
+basis to enable the continued functioning of the board when regular members are unable to participate due to illness, conflict of interest or unexpected circumstances,
+        or when special expertise or insight is required.
+Substitute members shall have the appropriate training, expertise and knowledge.
+Preparation and Training of Members
+Individual members of the REB must be qualified for their role and duties through training, experience and expertise. All members shall be required to undertake the training and education necessary to enable them to fulfill their duties. Such
+        training and education must meet the minimum requirements set down by the Board and address any particular deficiencies of a member.
+Education and training opportunities shall be provided to members of the REB to enable and assist them to effectively fulfill their duties. At a minimum, the training in the following areas shall be provided to and expected of each REB member:
+an understanding of the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans and its core principles;
+basic ethic principles and standards;
+relevant institutional policies; and
+legal and regulatory requirements.
+Conflict of Interest
+Individual members of the REB must be free of any conflict of interest, or perception thereof, in any discussions, deliberations or decision-making whether in the conduct of Board business or reviews of research proposals and reports.
+A Board member finding him/herself in a conflict of interest should immediately declare such to the Chair and Board and remove him/herself from any involvement in the discussions, deliberations or decision-making. Removal includes removal
+        from the physical setting of the discussion, etc. and from any communications concerning the Board business or reviews from which the identified conflicts arise.
+A Board member unsure of whether or not a conflict of interest exists should discuss the matter with the Chair who will then provide guidance to the member.
+Where it is not clear whether or not a conflict of interests exists, or may be perceived to exist, for a member, the default decision shall be to declare a conflict.
+Beyond a self-declared conflict of interest, a concern regarding a board member’s conflict of interest, or the appearance of a conflict of interest may be raised by any member of the board, or any other person, and the matter shall be determined
+        by a majority vote of the Board, which ruling shall be final. A member found to have a conflict of interest shall immediately remove him/herself from the discussion, etc. as described above.
+All declarations, discussions and decisions concerning conflicts of interest shall be recorded in the minutes of the Board.
+Removal of Members
+The appointment of an individual to the Board may be terminated if the member cannot or does not fulfill the responsibilities of an REB member.
+Circumstances that may lead to the termination of an appointment include, but are not limited to:
+excessive absences from meetings,
+failure to complete review duties in a timely fashion,
+failure to complete review duties in an ethical manner,
+failure to attend research ethics training,
+determination of research misconduct, and
+any behaviour that could compromise or the perceived to compromise a member’s ethical judgment.
+The circumstances that lead to the review of a member’s appointment shall be presented by the REB chair to the appointment panel established by the President.
+The appointment panel will review the circumstances, and may choose to interview the member in question, and will make a recommendation to the President concerning the termination or continuation of the appointment of the member.
+Upon receipt of the panel report and recommendation, the President may choose to terminate the appointment of the member to the REB.
+REB Chair and Vice-Chair
+The primary role of the Chair of the REB is to provide overall leadership to the REB and guide the REB review process. Within that leadership role, the Chair will ensure that the REB and its review process conform to the requirements of the
+        College and the
+Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans
+and protect the human participants and their rights.
+Further, and more specifically, the Chair shall be responsible for:
+calling and chairing regular meetings of the REB and other meetings as required;
+maintaining and coordinating communications with REB members and the College;
+communicating clearly and in a timely fashion the decisions of the REB to the primary investigators and the College;
+determining delegated reviews of proposed research;
+recommending experts to the REB where required;
+ensuring the appropriate recording and documentation of REB meetings and decisions, and the appropriate storage and distribution of the documentation;
+monitoring the REB decisions for consistency; and,
+receiving requests for and facilitating access to information and educational resources for the campus community;
+The chair may fully participate in all Board discussions and deliberations, but shall not vote except to break an otherwise tied Board vote.
+The Vice-Chair shall have such powers and perform such duties as may be assigned by the Board. In the absence of the Chair, or if the Chair is unable to perform his/her responsibilities, the Vice-Chair shall perform all the duties and have
+        all the powers of the Chair.
+Election of Chair and Vice-Chair
+Biannually, or as required, at the March meeting, the Board shall elect a Chair from among its members. The elected chair shall serve for two years and will assume responsibilities on September 1 of that year.
+A member may serve as Chair for no more than two consecutive two-year terms, and in no case may exceed the overall six-year Board term while serving as Chair.
+Biannually, or as required, at the March meeting, the board shall elect a Vice-Chair from among its members. The elected vice-chair shall serve for two years and will assume responsibilities on September 1 of that year.
+Research Ethics Board Meetings and Attendance
+In order to fulfill its responsibilities, the REB shall have regular face-to-face meetings at a minimum of bimonthly, unless there are no proposals before the Board.
+Regular attendance by members at REB meetings is necessary to ensure effective communication and decision-making. Attendance at all meetings is expected of REB members. Under exceptional circumstances, such as emergencies, technology-enabled
+        participation at a distance is acceptable.
+For decisions concerning the operations of the REB, a meeting quorum is reached when 50% or more of the REB members, including the Chair or Vice-Chair, are present. For full Board reviews of proposals, quorum is reached when at least five
+        REB members, including the Chair or Vice-Chair, are present, and the members present satisfy all of the roles identified above for Board membership.
+The REB shall determine and post publicly a schedule of meetings for the year by September of each year.
+Further, the REB shall hold workshops and/or committee meetings in order to
+enhance the operation of the REB;
+facilitate and expedite the discussion of rising issues;
+review, consider or revise relevant policies;
+provide for the training of REB members.
+Ad Hoc Advisors
+All ad hoc advisors shall be required to sign a confidentiality of information and conflict of interest agreements.
+Ad hoc advisors will be consulted in the event that the REB lacks the specific expertise or knowledge to review and determine the ethical acceptability of a research proposal.
+An ad hoc advisor may provide information, comment and insight to the Board but may not actively participate in any REB discussion, debate or decision. The advisor may not vote in any REB decision. An advisor may not be counted towards meeting
+        quorum requirements.
+REB Records and Documents
+The REB shall maintain on file all documents submitted and considered for research project proposals, and minutes of all REB board and committee meetings and other deliberations.
+The above documents and records shall be maintained in a secure manner within College facilities.
+The above documents and records shall be available to College authorized personnel, researchers and funding agencies.
+The REB shall create and maintain minutes of all REB board and committee meetings. The minutes shall include:
+a roll call;
+declarations of a conflict of interest and the subsequent handling of them;
+records of discussion;
+decisions and determinations;
+dates of decisions;
+a record of the vote on any decision;
+if requested by a dissenter, a record of the dissent, and the reasons for the dissent;
+titles or names of proposals considered;
+documents reviewed during deliberations; and,
+plans for continuing ethics review.
+In addition, the REB shall maintain general records including, but not limited to, curriculum vitaes of members, records of members’ participation in REB related training.
+The REB will retain all records for a minimum of three years - from the time of completion or termination in the case of a research project - or for a greater length of time if so stipulated in applicable governing regulations or College policy.
+Research Participants and the REB
+The first priority of the REB is the protection of research participants and their rights.
+Permission for research to begin will be given by the REB if and only when the REB is satisfied with the protection provided for research participants and their rights, their privacy and confidentiality, and the safeguarding of their information.
+Participant Consent
+The REB must be satisfied that the research consent process provides for and ensures fully informed consent, fully voluntary consent, withdrawal or alteration of consent without harm or loss of benefit, and consent safeguards for participants
+        of who lack the capacity to decide for themselves.
+Participants’ concerns
+Where any research participant expresses significant concern about the nature of the informed consent to the use of the research, the researcher shall report their concerns to the REB.
+Research participants shall be able to voice their concerns, ask questions and request information regarding their participation or potential participation in research, in confidence, to the REB Chair.
+The Chair, or designate, shall document all communications with the research participant(s), and a de-identified record, if anonymity has been requested, of these communications will be maintained securely and in the relevant research file.
+Participants’ Privacy and Confidentiality
+The REB must be satisfied that the researchers shall comply with all applicable privacy legislation and that, wherever possible, participants will be guaranteed privacy and anonymity and their responses will be treated with confidentiality.
+Safeguarding Participants’ Information
+The REB must be satisfied that the researchers will appropriately safeguard all participants’ information during the collection, use, dissemination, retention and/or disposal of the information.
+Review and Approval of Research by the Research Ethics Board
+No research may begin until the REB has reviewed the research proposal and approved the research. Ongoing research may be required by the REB to undergo periodic review and receive renewed approval by the REB for the continuation of the research.
+For research to be considered for ethical review, a complete research ethics review application package must be submitted to the REB, including all final research documents. (The application form, package and list of requirements are available
+        from the REB.)
+Every research proposal will be subject to a full review unless the Chair determines that a delegated review is sufficient and appropriate. Research proposals submitted to the REB for approval will be reviewed initially by the REB Chair who
+        will determine the appropriate level of review - a full review or a delegated review - for the proposal.
+Delegated Review
+A delegated review may be sufficient and appropriate, for example, when:
+the proposed research involves minimal risk to participants;
+the research is course based and of a pedagogical nature;
+when the proposed changes to already approved research involve minimal risk; or
+previously approved minimal-risk research requires an annual review and renewal of approval.
+A delegated review shall be undertaken by a committee of one or more delegated reviewers selected from amongst the REB membership or, in the case of a delegated review of course-based research, to a selected reviewer who is not an REB member.
+The decision of the committee undertaking the delegated review shall be reported to the Chair, who shall report the decision to the REB at the next scheduled meeting.
+The reviewer(s) conducting a delegated review may approve the proposal, or request revisions to the proposed research upon which approval is conditional, or refer the proposal to the full Board. An approval or conditional approval arising
+        from a delegated review may be communicated, by the Chair, to the proposing researcher prior to the informing of the REB of the decision.
+In the case of a research proposal that is referred to the Board by the delegated reviewer(s), a full review must be undertaken by the REB. Subsequent to that review, a final decision will be communicated to the proposing researcher.
+Delegated Review of Course-Based Research
+Research arising out of a course of instruction that is intended solely for pedagogical purposes (e.g. the objective of the activities is to provide students with exposure to research methods in their field of study) and involves no more than
+        minimal risk to participants may be eligible for a delegated review.
+Further, for such course-based research, the review may be delegated to selected reviewers who are not members of the REB. For example, the faculty member teaching the course within which the course-based research takes place may be designated
+        as the delegated reviewer.
+Reviewers who are designated to undertake delegated reviews of course-based research shall have the experience, expertise, training and resources required to effectively review the ethical acceptability of the proposed research and ensure
+        consistency with REB expectations, this Policy and the
+Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans
+.
+Full Review
+A full REB review shall:
+take place in a face-to-face REB meeting;
+have, for all proposals received by the REB, except those identified for a delegated review, the complete application copied and distributed to all members of the REB;
+have at least five REB members present, and the members present shall satisfy all of the roles identified for REB members;
+have REB members with a conflict of interest in the research under review not participate in the deliberations or the vote of the REB; and,
+have decisions made by a majority vote of the REB members who are present at the meeting.
+The applicant may be required to be present at the REB meeting to discuss the proposed research and answer questions the REB may have about the research, but may not be present when the REB is considering and making its decision.
+The REB will review, examine and consider the research proposal to determine its compliance and consistency with the Board’s expectations, this Policy and the
+Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans
+.
+If there are questions that must be addressed or additional information that is required prior to a determination, the REB may defer its decision until all outstanding questions and information requirements are addressed.
+Following its deliberations, the REB shall approve, not approve or require modifications to the proposed research.
+When modifications to the research plan or methodology are required, the REB may withhold approval until it reviews and is satisfied with the modifications.
+In those cases where the REB withholds approval until it is satisfied with the modifications, the Board may permit the Chair and at least one other member of the Board to review the proposed modifications and, if appropriate, approve
+                the modifications and grant approval for the proposed research. If, under these circumstances, the proposed modifications are not approved, the applicant will be invited to the next Board meeting to discuss the application prior
+                to the final decision being made.
+Communication of REB Decisions
+The Chair of the REB shall be responsible for communicating, in writing, all decisions concerning proposals to the members of the REB, the proposal originator and the College.
+The Chair shall ensure that a full and detailed record of the decision is forwarded to the appropriate College department.
+Reconsideration of an REB Decision
+A researcher has the right to have an REB decision reconsidered.
+If a researcher is dissatisfied with an REB decision, the researcher may request a formal reconsideration of the decision.
+The researcher has the responsibility to make the request in a timely fashion, typically within five working days of being notified of the REB’s decision and clearly establish and justify the grounds for the reconsideration request.
+The Board shall honour the request and undertake a reconsideration of its decision guided by the principles of natural and procedural justice, including:
+a reasonable opportunity for the researcher to be heard;
+the provision of an explanation of the reasons for its opinions and decisions;
+the opportunity for the researcher to provide a rebuttal;
+the application of fair and impartial judgment; and,
+the completion of the reconsideration in a timely manner.
+The decision of the Board at the conclusion of the reconsideration shall be communicated to the applicant, with reasons for the decision, and to the College, and shall be considered the final decision of the Board.
+Continuing Research Ethics Review
+On-going research shall be subject to periodic reviews by the REB.
+The frequency and the level of the periodic reviews shall be consistent with the level of risk in the research.
+Funded programs of research shall also follow the continuing reporting requirements of the funding agency.
+As part of the research proposal submitted for REB review, the principal investigator shall propose a process for on-going review of the research. The ultimate determination regarding ongoing review resides with the REB.
+Modifications to Approved Research
+Modifications to approved research may not be initiated without prior REB review and approval.
+Notwithstanding the above statement, where it is necessary to eliminate apparent immediate hazards to human participants
+the necessary changes or modifications should be implemented immediately, and
+the Researcher shall then immediately notify the REB, and arrange for REB review and approval of the changes.
+A researcher seeking to modify previously approved research shall submit to the REB a request for changes.
+The change request will be reviewed through either a delegated or full review, as determined by the Chair.
+If the decision is that a full review is required, the Chair shall so inform the College.
+A review of a request for modification - whether a delegated or full review - shall be governed by the same policies and processed in the same manner as an initial proposal review.
+Reporting Unanticipated Issues
+The researcher must notify the REB, as soon as possible, of any adverse or unanticipated issue or event that may have ethical implications or increase the level of risk to participants during the research.
+The reporting of the unanticipated issue shall include a description of the issues or incident, as well as details of how the researcher dealt with the situation.
+The REB may require researchers to adjust their procedures to prevent recurrence.
+Research Completion
+The Completion of research is a change in activity that must be reported to the REB.
+A final report allows the REB to close its files.
+As well, the final report will provide the REB with information that may be used in the evaluation and approval of related studies.
+Appeal of an REB Decision
+A researcher has the right to appeal an REB decision.
+A decision of the REB may be reversed only by the REB through reconsideration, or by a Research Ethics Appeal Board. (REAB)
+A researcher has the right to appeal to a Research Ethics Appeal Board.
+The College shall provide for a Research Ethics Appeal Board. The College shall use the established REB of another college or institution that has no prior knowledge of or exposure to the research that is the subject of the appeal.
+An appeal to the REAB must be made consistent with the following requirements.
+The researcher has exhausted the Reconsideration process and the REB has issued a final decision.
+The researcher must initiate the appeal within 30 days of the issuance of the written decision by the REB.
+The researcher must inform, in writing, the REB and the College of the request for an appeal.
+The appeal must be made in writing to the Chair of the REAB.
+The appeal application must include all supporting documents.
+The Research Ethics Appeal Board may sustain, modify or reverse a decision of the REB.
+The decision of the Research Ethics Appeal Board will be made in a timely fashion and communicated in writing to the researcher and the REB.
+The decision of the Research Ethics Appeal Board is final.
+Modification of This Policy
+The REB has the right, within the guidelines laid out by the Tri-Council, to recommend changes to this policy.
+Any recommendation for changes must be approved by a majority of the members of the REB.
+The consideration and implementation of REB-recommended changes to this policy will be considered and implemented consistent with College policy.
+Footnotes
+[1] TCPS2 defines human participants in Article 2.1 as “those individuals whose data, or responses to interventions, stimuli or question by the researcher, are relevant to answering the research question.” [p. 14]
+[2] TCPS2 defines research in Article 2.1 as “an undertaking intended to extend knowledge through a disciplined inquiry or systematic investigation.” [p. 14]
+[3] Canadian Institutes of Health Research, Natural Sciences and Engineering Research Council of Canada, and Social Sciences and Humanities Research Council of Canada,
+Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans.
+[4] TCPS2 defines autonomy as “the ability to deliberate about a decision and to act based on that deliberation”. [p. 6]
+[5] Chapter 9, Research Involving the First Nations, Inuit and Mètis Peoples of Canada.
+[6] Derived from TCPS2 Article 9.1, Requirement of Community Engagement in Aboriginal Research. [pp. 114-115]
+[7] See Articles 9.3 – 9.22 of the TCPS2. [pp. 118-137]
+[8] From
+CAREB/N2 REB SOP 101.002
+[9] TCPS2 Article 6.4, Basic REB Membership Requirements. [p. 72]
+For questions or concerns regarding this policy, please contact the
+Policy Sponsor
+by phoning our main line 519-542-7751.
+Search
