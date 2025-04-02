@@ -1,4 +1,4 @@
-# Lambton College Policies Chatbot
+# College Policies Chatbot
 
 An AI-powered chatbot designed to help students, faculty, and staff quickly access Lambton College policies using natural language processing (NLP). Built with Streamlit and powered by the Llama-2-7b-chat model, this tool simplifies policy navigation through a user-friendly web interface.
 
